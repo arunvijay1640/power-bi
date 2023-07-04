@@ -10,7 +10,7 @@ The company’s inception was January 2017 (so you can ignore all data before Ja
 Company is US-based, but launched in Brazil (which is why some information is in Portuguese)
 The senior management is keen to understand the performance their business, including revenue, products, & orders. As they plan to increase their customer base, any information about customer behaviour will also be insightful them.
 B. Data
-All data has been provided by Kaggle. (CC BY-NC-SA 4.0)
+All data has been provided 
  Orders dataset: This dataset has information about each item that was ordered.
 
 Order items dataset: This dataset includes data about the items purchased within each order.
